@@ -1,6 +1,4 @@
-## Mini project. 
-
-
+## Mini project
 ## group project 
 
 
